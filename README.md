@@ -1,3 +1,9 @@
+**Because the steps arent that easy, i now offer to fully remove pairip from any apk. It would cost just a little bit cause its a bit time consuming
+If interested contact on discord @mawocoder**
+
+If you need help, open an issue and contact me on discord @mawocoder
+
+
 # Google PairIp Bypass
 
 In the following i will provide some insights into Google PairIp protection and how to bypass it with code.
