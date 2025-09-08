@@ -2,6 +2,7 @@ const frida = require('frida');
 const { execSync } = require('child_process');
 const fs = require("fs");
 
+console.log("Newest Version working!")
 (async () => {
     try {
         execSync("adb connect emulator-5554");
