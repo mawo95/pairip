@@ -3,7 +3,7 @@ const { execSync } = require('child_process');
 const fs = require("fs");
 
 console.log("Newest Version working!")
-(async () => {
+async function all(){
     try {
         execSync("adb connect emulator-5554");
         execSync("adb -s emulator-5554 forward tcp:27042 tcp:27042");
@@ -93,4 +93,6 @@ const scriptCode = `
     } catch (err) {
         console.error("❌ Fehler:", err.message);
     }
-})();
+}
+
+all();
