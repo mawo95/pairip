@@ -27,6 +27,9 @@ Yes, it will work for any application using pairip latest update (open an issue 
 You firstly have to install Bluestacks on your pc and download the desired app on it.
 Once you done that, you can open the app and use it, because you didnt modify the apk yet.
 
+Install Node js version v20.11.0
+And install the frida npm package version frida@16.5.6
+
 In the next steps you will hook the app on startup and extract the important strings.
 You then replace these strings in the Apk and completly remove pairip. More on this now:
 
