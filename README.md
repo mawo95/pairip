@@ -29,6 +29,7 @@ Once you done that, you can open the app and use it, because you didnt modify th
 
 Install Node js version v20.11.0
 And install the frida npm package version frida@16.5.6
+Make sure to use the same frida server version in the frida-server apk.
 
 In the next steps you will hook the app on startup and extract the important strings.
 You then replace these strings in the Apk and completly remove pairip. More on this now:
@@ -52,3 +53,7 @@ In the frida.js you have to specify the application name and the classes which h
 
 # Any problems?
 **Don't wait and open an issue here**
+
+
+# Support
+**I am more than greatful for every single tip which lets me put even more time into one-to-one support via discord and this project in general ♥️ If you want to tip, contact me on discord @mawocoder with your Github username or your wished alias or use this [PayPal](https://paypal.me/maxfourth)**
