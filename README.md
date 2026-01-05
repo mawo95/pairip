@@ -57,3 +57,5 @@ In the frida.js you have to specify the application name and the classes which h
 
 # Support
 **I am more than greatful for every single tip which lets me put even more time into one-to-one support via discord and this project in general ♥️ If you want to tip, contact me on discord @mawocoder with your Github username or your wished alias or use this [PayPal](https://paypal.me/maxfourth)**
+
+- [ignuslabs](https://github.com/ignuslabs/)
